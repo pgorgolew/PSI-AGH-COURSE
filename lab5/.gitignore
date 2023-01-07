@@ -1,3 +1,5 @@
 output/
 poquad/
 question-context-classification/
+output_qa/
+question-context-qa/
